@@ -36,6 +36,8 @@ https://seva-setu-9a8e3.web.app/
 ## Screenshots
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/60bb71ea-7a63-4173-84fe-6e1b1cd8097d" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/556a4643-8715-415c-8e72-d3c70533bf96" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d9b210ad-6c87-4e29-9f31-f6e3075fdaed" />
 
 
 ## Note
